@@ -2,9 +2,9 @@
 
 Digital Engineer with experience in ReactJS, SQL, and Production Support.
 
-Skilled in UI debugging, SQL analysis, Jira-based issue resolution, and enterprise application support.
+Interested in Java, Full Stack Development, Cloud Technologies, Artificial Intelligence, and Data Engineering.
 
-Interested in Java, Full Stack Development, Cloud, and Data Engineering opportunities.
+Currently learning, building, and exploring modern technologies and real-world applications.
 
 Email: purvabavsikar5375@gmail.com
 
